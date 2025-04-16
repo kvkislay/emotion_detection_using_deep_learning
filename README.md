@@ -21,7 +21,7 @@ The FER-2013 dataset can be downloaded from Kaggle. Place the dataset in the `sr
 ## Basic Usage
 1. Clone the repository and enter the folder:
     ```bash
-    git clone https://github.com/yourusername/Emotion-Detection.git
+    git clone https://github.com/kvkislay/emotion_detection_using_deep_learning.git
     cd Emotion-Detection
     ```
 
