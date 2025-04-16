@@ -1,6 +1,3 @@
-Sure! Here's a sample README file for a GitHub project on emotion detection using deep learning:
-
----
 
 # Emotion Detection Using Deep Learning
 
